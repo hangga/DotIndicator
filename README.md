@@ -17,7 +17,6 @@ Dots Indicator for ViewPager
         android:layout_marginBottom="0dp"/>
  ```
  
- # In Java
  
  ```
  viewIncicator = (DotIndicator) findViewById(R.id.viewIncicator);
