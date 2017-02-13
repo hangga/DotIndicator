@@ -15,8 +15,10 @@ Dots Indicator for ViewPager
         android:orientation="horizontal"
         android:paddingTop="10dp"
         android:layout_marginBottom="0dp"/>
-        ```
+ ```
+ 
  # In Java
+ 
  ```
  viewIncicator = (DotIndicator) findViewById(R.id.viewIncicator);
  mViewPager.setAdapter(mSectionsPagerAdapter);
