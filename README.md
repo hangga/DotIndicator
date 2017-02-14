@@ -5,7 +5,7 @@ Dots Indicator for ViewPager
 
 # how to use
 ```
-<com.sebangga.sebangga.customview.DotIndicator
+<id.web.hangga.customview.DotIndicator
         android:id="@+id/viewIncicator"
         android:layout_above="@+id/wadahbottom"
         android:layout_width="match_parent"
